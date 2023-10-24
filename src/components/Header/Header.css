@@ -1,0 +1,26 @@
+@import '../../colors.css';
+
+.container {
+    padding: 20px;
+    align-items: center;
+    background: var(--primaryColor);
+}
+.button {
+    display: flex;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    padding: 10px 0px;
+    color: white;
+}
+.button-link {
+    font-size: 17px;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 10px;
+}
+.button:hover {
+    background: var(--hoverColor);
+    color: var(--textColor);
+}

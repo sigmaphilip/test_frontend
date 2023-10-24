@@ -1,0 +1,7 @@
+@import "../../../colors.css";
+
+.list-cell {
+    background: white;
+    border-radius: 15px;
+    padding: 10px;
+}
