@@ -1,0 +1,14 @@
+.text-container {
+    background: "white";
+    margin-left: 20px;
+}
+
+.text {
+
+}
+
+.text:hover {
+    border-radius: 2px;
+    padding: 0px;
+    cursor: pointer;
+}

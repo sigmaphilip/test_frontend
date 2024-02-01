@@ -1,0 +1,203 @@
+{
+    "Ledger": {
+      "Invoice": {
+        "ClientNo": "",
+        "Action": "",
+        "CustLegalNo": "",
+        "CustNo": "",
+        "Name": "",
+        "Name2": "",
+        "Adress": "",
+        "Adress2": "",
+        "PostCode": "",
+        "City": "",
+        "CountryCode": "",
+        "InvoiceNo": "",
+        "InvoiceDate": "",
+        "InvoiceDueDate": "",
+        "Amount": "",
+        "VATAmount": "",
+        "Currency": "",
+        "OrderDate": "",
+        "DeliveryDate": "",
+        "PaymentRefNo": "",
+        "OrderNo": "",
+        "PackageNo": "",
+        "PartialPaymentCode": "",
+        "PostProcessingCode": "",
+        "OurRef": "",
+        "YourRef": "",
+        "CustVATNo": "",
+        "Email": "",
+        "PhoneNo": "",
+        "DeliveryOption": "",
+        "GLN": "",
+        "ShipName": "",
+        "ShipName2": "",
+        "ShipAdress": "",
+        "ShipAdress2": "",
+        "ShipPostCode": "",
+        "ShipCity": "",
+        "ShipCountryCode": "",
+        "Language": "",
+        "PaymentRequestType": "",
+        "PaymentRequestId": "",
+        "SourceSystem": "",
+        "InvoiceAccount": {
+            "InterestStartDate": "",
+          "PaymentStartDate": ""
+        },
+        "ExtraText": {
+          "Line": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "InvoiceCode": [
+          {
+            "CodeValue": "",
+            "InvoiceCodeDescription": ""
+          },
+          {
+            "CodeValue": "",
+            "InvoiceCodeDescription": ""
+          },
+          {
+            "CodeValue": "",
+            "InvoiceCodeDescription": ""
+          }
+        ],
+        "Line": [
+          {
+            "ItemNo": "",
+            "Description": "",
+            "Description2": "",
+            "UnitOfMeasure": "",
+            "Quantity": "",
+            "UnitPrice": "",
+            "VATPct": "",
+            "VATAmount": "",
+            "DiscountPct": "",
+            "LineAmountExclVAT": "",
+            "LineAmountInclVAT": ""
+          },
+          {
+            "ItemNo": "",
+            "Description": "",
+            "Description2": "",
+            "UnitOfMeasure": "",
+            "Quantity": "",
+            "UnitPrice": "",
+            "VATPct": "",
+            "VATAmount": "",
+            "DiscountPct": "",
+            "LineAmountExclVAT": "",
+            "LineAmountInclVAT": ""
+          }
+        ],
+        "Attachment": [
+          {
+            "Realm": "",
+            "Name": "",
+            "Pages": ""
+          },
+          {
+            "Realm": "",
+            "Name": "",
+            "Pages": ""
+          }
+        ]
+      },
+      "Credit": {
+        "ClientNo": "",
+        "CustLegalNo": "",
+        "CustNo": "",
+        "Name": "",
+        "Name2": "",
+        "Adress": "",
+        "Adress2": "",
+        "PostCode": "",
+        "City": "",
+        "CountryCode": "",
+        "CreditNo": "",
+        "CreditDate": "",
+        "CreditDueDate": "",
+        "CreditRefType": "",
+        "CreditRefNo": "",
+        "Amount": "",
+        "VATAmount": "",
+        "Currency": "",
+        "OrderDate": "",
+        "DeliveryDate": "",
+        "PaymentRefNo": "",
+        "OrderNo": "",
+        "PackageNo": "",
+        "OurRef": "",
+        "YourRef": "",
+        "CustVATNo": "",
+        "Email": "",
+        "PhoneNo": "",
+        "DeliveryOption": "",
+        "GLN": "",
+        "ShipName": "",
+        "ShipName2": "",
+        "ShipAdress": "",
+        "ShipAdress2": "",
+        "ShipPostCode": "",
+        "ShipCity": "",
+        "ShipCountryCode": "",
+        "Language": "",
+        "SourceSystem": "",
+        "ExtraText": {
+          "Line": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "InvoiceCode": [
+          {
+            "CodeValue": "",
+            "InvoiceCodeDescription": ""
+          },
+          {
+            "CodeValue": "",
+            "InvoiceCodeDescription": ""
+          },
+          {
+            "CodeValue": "",
+            "InvoiceCodeDescription": ""
+          }
+        ],
+        "Line": [
+          {
+            "ItemNo": "",
+            "Description": "",
+            "Description2": "",
+            "UnitOfMeasure": "",
+            "Quantity": "",
+            "UnitPrice": "",
+            "VATPct": "",
+            "VATAmount": "",
+            "DiscountPct": "",
+            "LineAmountExclVAT": "",
+            "LineAmountInclVAT": ""
+          },
+          {
+            "ItemNo": "",
+            "Description": "",
+            "Description2": "",
+            "UnitOfMeasure": "",
+            "Quantity": "",
+            "UnitPrice": "",
+            "VATPct": "",
+            "VATAmount": "",
+            "DiscountPct": "",
+            "LineAmountExclVAT": "",
+            "LineAmountInclVAT": ""
+          }
+        ]
+      }
+    }
+  }

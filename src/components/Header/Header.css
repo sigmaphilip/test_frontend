@@ -1,9 +1,6 @@
-@import '../../colors.css';
-
 .container {
     padding: 20px;
     align-items: center;
-    background: var(--primaryColor);
 }
 .button {
     display: flex;

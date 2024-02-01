@@ -1,9 +1,13 @@
 :root {
-    --primaryColor: #363062;
-    --secondaryColor: #4D4C7D;
+    --primaryColor: #4054B2;
+    --secondaryColor: #ECEEF7;
+    --mediumColor: #A0AAD9;
+    --lightColor: #ECEEF7;
+    --fourthColor: #5365BA;
     --hoverColor: #F5F5F5;
     --orange: #F99417;
     --textColor: #4D4C7D;
     --selectedColor: #F99417;
     --lightGrayColor: #D9D9D9;
+    --borderColor: #979797;
   }

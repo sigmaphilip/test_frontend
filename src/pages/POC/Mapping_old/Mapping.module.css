@@ -1,0 +1,40 @@
+@import "../../../colors.css";
+
+.border-container {
+    border: solid 1px lightgray;
+    text-align: center;
+    overflow: auto;
+    height: 800px;
+}
+
+.confirm-container {
+    background: white;
+    padding-top: 10px;
+}
+
+.file-import-container {
+    display: flex;
+    justify-content: center;
+}
+
+.right-side-container {
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    width: 700px;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+    margin: 30px;
+}
+
+.file-container {
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    width: 650px;
+}
